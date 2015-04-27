@@ -1,7 +1,7 @@
 # Awesome Java
 
 A curated list of awesome Java frameworks, libraries and software. Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
-nice
+
 - [Awesome Java](#awesome-java)
     - [Build Tool](#build-tool)
     - [Bytecode Manipulation](#bytecode-manipulation)
